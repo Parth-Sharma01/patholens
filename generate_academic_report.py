@@ -195,7 +195,7 @@ def build_docx_report():
     table_team = doc.add_table(rows=6, cols=2)
     table_team.alignment = WD_TABLE_ALIGNMENT.CENTER
     members = [
-        ("Parth Sharma (Team Leader & Principal System Architect)", "Lovisha Arora (Media & Model Creation)"),
+        ("Parth Sharma (Team Leader · Full-Stack & ML Lead)", "Lovisha Arora (Media & Model Creation)"),
         ("Megha Hooda (PPT & Reel Making Idea)", "Prachi Aggarwal (Risk Scoring Algorithm & Design)"),
         ("Kush Sadwal (Google Form Automation)", "Niharika Rakheja (Village Selection & Visits)"),
         ("Prachi Pal (Field Methodology & Risk Assessment)", "Prachi Arya (Disease Transmission & Risk Factors)"),

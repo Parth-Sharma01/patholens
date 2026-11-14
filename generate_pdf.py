@@ -372,7 +372,7 @@ def build_pdf(filename):
 
     team_data = [
         [Paragraph("Team Member", table_head), Paragraph("Role & Project Responsibilities", table_head)],
-        [Paragraph("<b>Parth Sharma</b>", table_text), Paragraph("Team Leader & Principal System Architect", table_text)],
+        [Paragraph("<b>Parth Sharma</b>", table_text), Paragraph("Team Leader · Full-Stack & ML Lead", table_text)],
         [Paragraph("<b>Lovisha Arora</b>", table_text), Paragraph("Web Application & Machine Learning Development", table_text)],
         [Paragraph("<b>Megha Hooda</b>", table_text), Paragraph("PPT and Reel Making Idea", table_text)],
         [Paragraph("<b>Prachi Aggarwal</b>", table_text), Paragraph("PPT Making & Reel Content Making", table_text)],
