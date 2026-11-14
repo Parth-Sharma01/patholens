@@ -1,0 +1,489 @@
+[
+  {
+    "id": "mwezhmd5b3ljstu9ksd",
+    "village": "None",
+    "handwashBeforeCooking": "always",
+    "handwashDuringCooking": "always",
+    "handwashAfterToilet": "always",
+    "handwashAfterRawFood": "always",
+    "handCutsWounds": "never",
+    "hairCovering": "always",
+    "handDryingMethod": "always",
+    "waterSource": "tap",
+    "waterTreatmentMethod": [
+      "boil"
+    ],
+    "waterTreatmentConsistency": "always",
+    "waterStorage": "covered",
+    "waterHandlingUtensil": "clean_utensil",
+    "waterContainerCleaning": "daily",
+    "cookingWaterSameSource": "yes",
+    "separateRawCooked": "always",
+    "crossContamKnifeBoard": "no",
+    "washVegFruits": "always",
+    "cookMeatEggsProperly": "always",
+    "coverFoodCooking": "always",
+    "dishwashSoapLiquid": "always",
+    "boilMilk": "always",
+    "hasFridge": "yes",
+    "fridgeRawCookedSeparated": "always",
+    "roomTempStorageDuration": "less_2h",
+    "reheatLeftoversProperly": "always",
+    "coverLeftoverFood": "always",
+    "dryFoodStorageCovered": "always",
+    "consumeMouldyFood": "no",
+    "checkExpiryDate": "always",
+    "fliesInKitchen": "rarely",
+    "wasteDisposalBin": "covered",
+    "petsNearKitchen": "never",
+    "recentDiarrhoea": "no",
+    "recentVomitingNausea": "no",
+    "multipleMembersIll": "no",
+    "soughtTreatment": "yes",
+    "foodWaterSuspected": "no",
+    "contaminationRisks": [
+      "Contaminated Water"
+    ],
+    "risk": {
+      "total": 17,
+      "level": "Low",
+      "breakdown": {
+        "hygiene": {
+          "score": 0,
+          "max": 20,
+          "hazard": 0
+        },
+        "water": {
+          "score": 2,
+          "max": 25,
+          "hazard": 8
+        },
+        "cooking": {
+          "score": 0,
+          "max": 20,
+          "hazard": 0
+        },
+        "storage": {
+          "score": 0,
+          "max": 15,
+          "hazard": 0
+        },
+        "environment": {
+          "score": 1,
+          "max": 10,
+          "hazard": 10
+        },
+        "history": {
+          "score": 0,
+          "max": 10,
+          "hazard": 0
+        }
+      },
+      "unanswered": [],
+      "model": "multiplicative"
+    },
+    "createdAt": "2026-11-13T12:59:40.025Z"
+  },
+  {
+    "id": "SHL-LIVE-HF0Z",
+    "village": "Bajhol (Near Shoolini)",
+    "handwashBeforeCooking": "always",
+    "handwashDuringCooking": "always",
+    "handwashAfterToilet": "always",
+    "handwashAfterRawFood": "always",
+    "handCutsWounds": "never",
+    "hairCovering": "always",
+    "handDryingMethod": "always",
+    "waterSource": "tap",
+    "waterTreatmentMethod": [
+      "boil"
+    ],
+    "waterTreatmentConsistency": "always",
+    "waterStorage": "covered",
+    "waterHandlingUtensil": "clean_utensil",
+    "waterContainerCleaning": "daily",
+    "cookingWaterSameSource": "yes",
+    "separateRawCooked": "always",
+    "crossContamKnifeBoard": "no",
+    "washVegFruits": "always",
+    "cookMeatEggsProperly": "always",
+    "coverFoodCooking": "always",
+    "dishwashSoapLiquid": "always",
+    "boilMilk": "always",
+    "hasFridge": "yes",
+    "fridgeRawCookedSeparated": "always",
+    "roomTempStorageDuration": "less_2h",
+    "reheatLeftoversProperly": "always",
+    "coverLeftoverFood": "always",
+    "dryFoodStorageCovered": "always",
+    "consumeMouldyFood": "no",
+    "checkExpiryDate": "always",
+    "fliesInKitchen": "rarely",
+    "wasteDisposalBin": "covered",
+    "petsNearKitchen": "never",
+    "recentDiarrhoea": "no",
+    "recentVomitingNausea": "no",
+    "multipleMembersIll": "no",
+    "soughtTreatment": "yes",
+    "foodWaterSuspected": "no",
+    "contaminationRisks": [
+      "Contaminated Water"
+    ],
+    "risk": {
+      "total": 17,
+      "level": "Low",
+      "breakdown": {
+        "hygiene": {
+          "score": 0,
+          "max": 20,
+          "hazard": 0
+        },
+        "water": {
+          "score": 2,
+          "max": 25,
+          "hazard": 8
+        },
+        "cooking": {
+          "score": 0,
+          "max": 20,
+          "hazard": 0
+        },
+        "storage": {
+          "score": 0,
+          "max": 15,
+          "hazard": 0
+        },
+        "environment": {
+          "score": 1,
+          "max": 10,
+          "hazard": 10
+        },
+        "history": {
+          "score": 0,
+          "max": 10,
+          "hazard": 0
+        }
+      },
+      "unanswered": [],
+      "model": "multiplicative"
+    },
+    "createdAt": "2026-11-13T12:59:30.515Z"
+  },
+  {
+    "id": "SHL-LIVE-H71R",
+    "village": "Bajhol (Near Shoolini)",
+    "handwashBeforeCooking": "always",
+    "handwashDuringCooking": "always",
+    "handwashAfterToilet": "always",
+    "handwashAfterRawFood": "always",
+    "handCutsWounds": "never",
+    "hairCovering": "always",
+    "handDryingMethod": "always",
+    "waterSource": "tap",
+    "waterTreatmentMethod": [
+      "boil"
+    ],
+    "waterTreatmentConsistency": "always",
+    "waterStorage": "covered",
+    "waterHandlingUtensil": "clean_utensil",
+    "waterContainerCleaning": "daily",
+    "cookingWaterSameSource": "yes",
+    "separateRawCooked": "always",
+    "crossContamKnifeBoard": "no",
+    "washVegFruits": "always",
+    "cookMeatEggsProperly": "always",
+    "coverFoodCooking": "always",
+    "dishwashSoapLiquid": "always",
+    "boilMilk": "always",
+    "hasFridge": "yes",
+    "fridgeRawCookedSeparated": "always",
+    "roomTempStorageDuration": "less_2h",
+    "reheatLeftoversProperly": "always",
+    "coverLeftoverFood": "always",
+    "dryFoodStorageCovered": "always",
+    "consumeMouldyFood": "no",
+    "checkExpiryDate": "always",
+    "fliesInKitchen": "rarely",
+    "wasteDisposalBin": "covered",
+    "petsNearKitchen": "never",
+    "recentDiarrhoea": "no",
+    "recentVomitingNausea": "no",
+    "multipleMembersIll": "no",
+    "soughtTreatment": "yes",
+    "foodWaterSuspected": "no",
+    "contaminationRisks": [
+      "Contaminated Water"
+    ],
+    "risk": {
+      "total": 17,
+      "level": "Low",
+      "breakdown": {
+        "hygiene": {
+          "score": 0,
+          "max": 20,
+          "hazard": 0
+        },
+        "water": {
+          "score": 2,
+          "max": 25,
+          "hazard": 8
+        },
+        "cooking": {
+          "score": 0,
+          "max": 20,
+          "hazard": 0
+        },
+        "storage": {
+          "score": 0,
+          "max": 15,
+          "hazard": 0
+        },
+        "environment": {
+          "score": 1,
+          "max": 10,
+          "hazard": 10
+        },
+        "history": {
+          "score": 0,
+          "max": 10,
+          "hazard": 0
+        }
+      },
+      "unanswered": [],
+      "model": "multiplicative"
+    },
+    "createdAt": "2026-11-13T12:59:20.175Z"
+  },
+  {
+    "id": "mwdwbwn5in734anvt9h",
+    "village": "Survey Household",
+    "handwashBeforeCooking": "never",
+    "handwashDuringCooking": "never",
+    "handwashAfterToilet": "never",
+    "handwashAfterRawFood": "always",
+    "handCutsWounds": "often",
+    "hairCovering": "always",
+    "handDryingMethod": "always",
+    "waterSource": "tap",
+    "waterTreatmentMethod": [
+      "boil"
+    ],
+    "waterTreatmentConsistency": "always",
+    "waterStorage": "covered",
+    "waterHandlingUtensil": "clean_utensil",
+    "waterContainerCleaning": "daily",
+    "cookingWaterSameSource": "yes",
+    "separateRawCooked": "always",
+    "crossContamKnifeBoard": "no",
+    "washVegFruits": "always",
+    "cookMeatEggsProperly": "always",
+    "coverFoodCooking": "always",
+    "dishwashSoapLiquid": "always",
+    "boilMilk": "always",
+    "hasFridge": "yes",
+    "fridgeRawCookedSeparated": "always",
+    "roomTempStorageDuration": "less_2h",
+    "reheatLeftoversProperly": "always",
+    "coverLeftoverFood": "always",
+    "dryFoodStorageCovered": "always",
+    "consumeMouldyFood": "no",
+    "checkExpiryDate": "always",
+    "fliesInKitchen": "rarely",
+    "wasteDisposalBin": "covered",
+    "petsNearKitchen": "never",
+    "recentDiarrhoea": "no",
+    "recentVomitingNausea": "no",
+    "multipleMembersIll": "no",
+    "soughtTreatment": "na",
+    "foodWaterSuspected": "no",
+    "contaminationRisks": [
+      "Contaminated Water",
+      "Flies & Pests"
+    ],
+    "risk": {
+      "total": 75,
+      "level": "Critical",
+      "breakdown": {
+        "hygiene": {
+          "score": 14,
+          "max": 20,
+          "hazard": 70
+        },
+        "water": {
+          "score": 2,
+          "max": 25,
+          "hazard": 8
+        },
+        "cooking": {
+          "score": 0,
+          "max": 20,
+          "hazard": 0
+        },
+        "storage": {
+          "score": 0,
+          "max": 15,
+          "hazard": 0
+        },
+        "environment": {
+          "score": 1,
+          "max": 10,
+          "hazard": 10
+        },
+        "history": {
+          "score": 0,
+          "max": 10,
+          "hazard": 0
+        }
+      },
+      "unanswered": [],
+      "model": "multiplicative"
+    },
+    "createdAt": "2026-11-12T18:43:28.385Z"
+  },
+  {
+    "id": "mwdllk2ofc81d7e86yl",
+    "village": "Survey Household",
+    "handwashBeforeCooking": "never",
+    "handwashDuringCooking": "never",
+    "handwashAfterToilet": "never",
+    "handwashAfterRawFood": "never",
+    "handCutsWounds": "often",
+    "hairCovering": "never",
+    "handDryingMethod": "never",
+    "waterSource": "tap",
+    "waterTreatmentMethod": [
+      "cloth"
+    ],
+    "waterTreatmentConsistency": "sometimes",
+    "waterStorage": "open",
+    "waterHandlingUtensil": "sometimes",
+    "waterContainerCleaning": "weekly",
+    "cookingWaterSameSource": "no",
+    "separateRawCooked": "always",
+    "crossContamKnifeBoard": "no",
+    "washVegFruits": "always",
+    "cookMeatEggsProperly": "always",
+    "coverFoodCooking": "always",
+    "dishwashSoapLiquid": "always",
+    "boilMilk": "always",
+    "hasFridge": "yes",
+    "fridgeRawCookedSeparated": "always",
+    "roomTempStorageDuration": "less_2h",
+    "reheatLeftoversProperly": "always",
+    "coverLeftoverFood": "always",
+    "dryFoodStorageCovered": "always",
+    "consumeMouldyFood": "no",
+    "checkExpiryDate": "always",
+    "fliesInKitchen": "rarely",
+    "wasteDisposalBin": "covered",
+    "petsNearKitchen": "never",
+    "recentDiarrhoea": "no",
+    "recentVomitingNausea": "no",
+    "multipleMembersIll": "no",
+    "soughtTreatment": "yes",
+    "foodWaterSuspected": "no",
+    "contaminationRisks": [],
+    "risk": {
+      "total": 100,
+      "level": "Critical",
+      "breakdown": {
+        "hygiene": {
+          "score": 20,
+          "max": 20,
+          "hazard": 100
+        },
+        "water": {
+          "score": 16,
+          "max": 25,
+          "hazard": 64
+        },
+        "cooking": {
+          "score": 0,
+          "max": 20,
+          "hazard": 0
+        },
+        "storage": {
+          "score": 0,
+          "max": 15,
+          "hazard": 0
+        },
+        "environment": {
+          "score": 1,
+          "max": 10,
+          "hazard": 10
+        },
+        "history": {
+          "score": 0,
+          "max": 10,
+          "hazard": 0
+        }
+      },
+      "unanswered": [],
+      "model": "multiplicative"
+    },
+    "createdAt": "2026-11-12T13:43:02.880Z"
+  },
+  {
+    "id": "mv6npk88chgonpx54j",
+    "village": "Survey Household",
+    "handwashBeforeCooking": "always",
+    "handwashDuringCooking": "always",
+    "handwashAfterToilet": "always",
+    "handwashAfterRawFood": "always",
+    "handCutsWounds": "never",
+    "hairCovering": "sometimes",
+    "handDryingMethod": "always",
+    "waterSource": "tap",
+    "waterTreatment": "always",
+    "waterStorage": "covered",
+    "waterHandlingUtensil": "clean_utensil",
+    "waterContainerCleaning": "daily",
+    "separateRawCooked": "always",
+    "crossContamKnifeBoard": "no",
+    "washVegFruits": "yes",
+    "cookMeatEggsProperly": "always",
+    "coverFoodCooking": "always",
+    "hasFridge": "yes",
+    "roomTempStorageDuration": "less_2h",
+    "reheatLeftoversProperly": "always",
+    "coverLeftoverFood": "always",
+    "consumeMouldyFood": "no",
+    "fliesInKitchen": "rarely",
+    "wasteDisposalBin": "covered",
+    "petsNearKitchen": "no",
+    "recentDiarrhoea": "no",
+    "recentVomitingNausea": "no",
+    "multipleMembersIll": "no",
+    "risk": {
+      "total": 8,
+      "level": "Low",
+      "breakdown": {
+        "hygiene": {
+          "score": 0.5,
+          "max": 20
+        },
+        "water": {
+          "score": 2.5,
+          "max": 25
+        },
+        "cooking": {
+          "score": 1.5,
+          "max": 20
+        },
+        "storage": {
+          "score": 1.5,
+          "max": 15
+        },
+        "environment": {
+          "score": 1,
+          "max": 10
+        },
+        "history": {
+          "score": 1,
+          "max": 10
+        }
+      }
+    },
+    "createdAt": "2026-10-13T12:28:03.368Z"
+  }
+]
