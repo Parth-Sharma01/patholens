@@ -596,13 +596,13 @@ function CategoryBar({ label, score, max, hazard, lang = 'en' }) {
   return (
     <div>
       <div className="flex justify-between items-center text-xs mb-1">
-        <span className="text-gray-400 capitalize">{displayLabel}</span>
+        <span className="text-slate-600 dark:text-gray-400 font-medium capitalize">{displayLabel}</span>
         <div className="flex items-center gap-2">
-          <span className="text-[11px] text-gray-500 font-mono">({displayHazard}% {lang === 'hi' ? 'खतरा' : 'hazard'})</span>
-          <span className="text-gray-300 font-semibold">{score}/{max}</span>
+          <span className="text-[11px] text-slate-500 dark:text-gray-500 font-mono">({displayHazard}% {lang === 'hi' ? 'खतरा' : 'hazard'})</span>
+          <span className="text-slate-800 dark:text-gray-200 font-bold">{score}/{max}</span>
         </div>
       </div>
-      <div className="h-1.5 bg-gray-800 rounded-full overflow-hidden">
+      <div className="h-1.5 bg-slate-200 dark:bg-gray-800 rounded-full overflow-hidden">
         <motion.div
           initial={{ width: 0 }}
           animate={{ width: `${pct}%` }}

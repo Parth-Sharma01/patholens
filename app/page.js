@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <ThemeProvider>
       <LanguageProvider>
-        <div className="relative min-h-screen transition-colors duration-300">
+        <div className="relative min-h-screen bg-slate-50 text-slate-900 dark:bg-gray-950 dark:text-gray-100 transition-colors duration-300">
           <BioBackground />
           <div className="relative z-10">
             <Navbar />
