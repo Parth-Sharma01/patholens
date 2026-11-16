@@ -196,11 +196,11 @@ def build_docx_report():
     table_team.alignment = WD_TABLE_ALIGNMENT.CENTER
     members = [
         ("Parth Sharma (Team Leader · Full-Stack & ML Lead)", "Lovisha Arora (Model Evaluation, Frontend UI & Media Content)"),
-        ("Megha Hooda (PPT & Reel Making Idea)", "Prachi Aggarwal (Risk Scoring Algorithm & Design)"),
+        ("Megha Hooda (PPT & Video Making)", "Prachi Aggarwal (Risk Score Parameter Design & Video Shoot)"),
         ("Kush Sadwal (Google Form Automation)", "Niharika Rakheja (Village Selection & Visits)"),
         ("Prachi Pal (Field Methodology & Risk Assessment)", "Prachi Arya (Disease Transmission & Risk Factors)"),
         ("Palak Sharma (Questionnaire Calibration)", "Palak Anand (Research Gap & Literature Review)"),
-        ("Palak Tiwari (Questionnaire & PPT Design)", "Palak Kumari (Questionnaire Design & Food Tech)")
+        ("Palak Tiwari (Questionnaire & PPT Design)", "Palak Kumari (Household Food-Safety Questionnaire)")
     ]
     for row_idx, (m1, m2) in enumerate(members):
         cell_1 = table_team.rows[row_idx].cells[0]
